@@ -63,6 +63,16 @@ venv\Scripts\activate     # Windows
 
 ---
 
+## Run the Flask Web App
+To start the web application for digit recognition:  
+```bash
+cd 7DEPLOYMENT
+python app.py
+```
+Then, open your browser and go to `http://127.0.0.1:8000`.
+
+---
+
 ## 🙌 Acknowledgments
 
 - **MNIST Dataset** (by Yann LeCun)  
