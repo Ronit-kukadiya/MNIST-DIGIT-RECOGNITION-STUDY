@@ -1,0 +1,16 @@
+idx2numpy
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+tensorflow
+flask
+opencv-python
+pillow
+time
+os
+base64
+io
