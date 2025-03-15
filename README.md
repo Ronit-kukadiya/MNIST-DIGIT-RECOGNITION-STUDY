@@ -61,22 +61,6 @@ source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 ```
 
-##  Usage
-
-### 1️⃣ Train & Evaluate Models
-Run the following notebooks to preprocess data, train models, and evaluate performance:  
-- `2PREPROCESSING/preprocessing.ipynb`  
-- `3MODEL_SELECTION/model_selection.ipynb`  
-- `4MODEL_EVALUATION/evaluate_model.ipynb`  
-
-### 2️⃣ Run the Flask Web App
-To start the web application for digit recognition:  
-```bash
-cd 7DEPLOYMENT
-python app.py
-```
-Then, open your browser and go to `http://127.0.0.1:8000`.
-
 ---
 
 ## 🙌 Acknowledgments
