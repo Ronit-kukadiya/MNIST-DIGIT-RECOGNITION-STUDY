@@ -23,8 +23,7 @@ MNIST-DIGIT-RECOGNITION-STUDY/
 │-- 5ADVANCED_TRAINING/         # Cross-validation and hyperparameter tuning
 │-- 6VISUALIZATION/             # Graphs, metrics, and predictions
 │-- 7DEPLOYMENT/                # Flask web app for digit recognition
-│-- │-- requirements.txt        # Dependencies
-│-- .gitattributes              # LFS-tracked files (.keras, .pkl, .pth, .csv)
+│-- requirements.txt            # Dependencies
 │-- README.md                   # Project documentation (this file)
 
 ```
