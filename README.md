@@ -10,7 +10,7 @@ this project used [DataSet](https://www.kaggle.com/datasets/hojjatk/mnist-datase
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure overview
 
 ```
 MNIST-DIGIT-RECOGNITION-STUDY/
