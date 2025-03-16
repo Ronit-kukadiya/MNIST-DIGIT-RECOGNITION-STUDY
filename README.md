@@ -70,7 +70,7 @@ python app.py
 ```
 Then, open your browser and go to `http://127.0.0.1:8000`.
 
-Alternatively, you can just go to this [repo](https://github.com/Ronit-kukadiya/MNIST-Digit-Recognition) to get the flask app. since this repository only has reference to models, datasets and other large files
+Alternatively, you can just go to this [repo](https://github.com/Ronit-kukadiya/MNIST-Digit-Recognition) to get the flask app. since this repository only has reference to models, datasets and other necessary large files
 
 ---
 
