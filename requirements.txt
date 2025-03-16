@@ -5,6 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 torch
+joblib
 torchvision
 tensorflow
 flask
