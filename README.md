@@ -76,7 +76,7 @@ Alternatively, you can just go to this [repo](https://github.com/Ronit-kukadiya/
 
 ## 🙌 Acknowledgments
 
-- **MNIST Dataset** (by Yann LeCun)  
+- **MNIST Dataset**
 - **Scikit-Learn, TensorFlow, PyTorch** for model implementation  
 - **Flask** for the web app  
 - **Git & GitHub LFS** for version control
